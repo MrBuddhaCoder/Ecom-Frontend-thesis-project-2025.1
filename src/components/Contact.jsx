@@ -60,7 +60,7 @@ function Contact() {
     {
       icon: FaPhone,
       title: "Phone",
-      content: "(+84) 97 456 2318",
+      content: "(+84) 97 486 4318",
       subtitle: "Mon-Fri 9am-6pm",
       color: "from-blue-500 to-cyan-500",
       link: "tel:+84974562318",
@@ -76,7 +76,7 @@ function Contact() {
     {
       icon: FaMapMarkerAlt,
       title: "Address",
-      content: "No. 10, Vinh City",
+      content: "No. 30, Vinh City",
       subtitle: "Nghe An Province, Vietnam",
       color: "from-green-500 to-emerald-500",
     },
