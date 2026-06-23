@@ -19,7 +19,7 @@ A modern, full-featured e-commerce frontend for a laptop retail platform, built 
 
 ## 📌 Related Repository
 
-**Backend Microservices:** [graduation-thesis-microservice-laptop-ecommerce-2](https://github.com/MrBuddhaCoder/graduation-thesis-microservice-laptop-ecommerce-2)
+**Backend Microservices:** [graduation-thesis-microservice-laptop-ecommerce-2](https://github.com/thaivanlam/graduation-thesis-microservice-laptop-ecommerce-2)
 
 ---
 
